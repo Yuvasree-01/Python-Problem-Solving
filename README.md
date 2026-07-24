@@ -9,4 +9,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1672-richest-customer-wealth](https://github.com/Yuvasree-01/Python-Problem-Solving/tree/master/1672-richest-customer-wealth) |
+## String
+|  |
+| ------- |
+| [0058-length-of-last-word](https://github.com/Yuvasree-01/Python-Problem-Solving/tree/master/0058-length-of-last-word) |
 <!---LeetCode Topics End-->
