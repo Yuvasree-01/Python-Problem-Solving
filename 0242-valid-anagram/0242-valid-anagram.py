@@ -5,3 +5,4 @@ class Solution:
             return False
 
         return Counter(s)==Counter(t)
+        # return sorted(s)== sorted(t)
