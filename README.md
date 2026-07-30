@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0027-remove-element](https://github.com/Yuvasree-01/Python-Problem-Solving/tree/master/0027-remove-element) |
 | [0088-merge-sorted-array](https://github.com/Yuvasree-01/Python-Problem-Solving/tree/master/0088-merge-sorted-array) |
 | [0283-move-zeroes](https://github.com/Yuvasree-01/Python-Problem-Solving/tree/master/0283-move-zeroes) |
+| [0414-third-maximum-number](https://github.com/Yuvasree-01/Python-Problem-Solving/tree/master/0414-third-maximum-number) |
 | [1672-richest-customer-wealth](https://github.com/Yuvasree-01/Python-Problem-Solving/tree/master/1672-richest-customer-wealth) |
 ## Matrix
 |  |
@@ -51,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0088-merge-sorted-array](https://github.com/Yuvasree-01/Python-Problem-Solving/tree/master/0088-merge-sorted-array) |
 | [0242-valid-anagram](https://github.com/Yuvasree-01/Python-Problem-Solving/tree/master/0242-valid-anagram) |
+| [0414-third-maximum-number](https://github.com/Yuvasree-01/Python-Problem-Solving/tree/master/0414-third-maximum-number) |
 ## Queue
 |  |
 | ------- |
