@@ -82,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0009-palindrome-number](https://github.com/Yuvasree-01/Python-Problem-Solving/tree/master/0009-palindrome-number) |
+| [0263-ugly-number](https://github.com/Yuvasree-01/Python-Problem-Solving/tree/master/0263-ugly-number) |
 | [2485-find-the-pivot-integer](https://github.com/Yuvasree-01/Python-Problem-Solving/tree/master/2485-find-the-pivot-integer) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Yuvasree-01/Python-Problem-Solving/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 ## Greedy
