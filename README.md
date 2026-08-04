@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0485-max-consecutive-ones](https://github.com/Yuvasree-01/Python-Problem-Solving/tree/master/0485-max-consecutive-ones) |
 | [0566-reshape-the-matrix](https://github.com/Yuvasree-01/Python-Problem-Solving/tree/master/0566-reshape-the-matrix) |
 | [1207-unique-number-of-occurrences](https://github.com/Yuvasree-01/Python-Problem-Solving/tree/master/1207-unique-number-of-occurrences) |
+| [1502-can-make-arithmetic-progression-from-sequence](https://github.com/Yuvasree-01/Python-Problem-Solving/tree/master/1502-can-make-arithmetic-progression-from-sequence) |
 | [1672-richest-customer-wealth](https://github.com/Yuvasree-01/Python-Problem-Solving/tree/master/1672-richest-customer-wealth) |
 ## Matrix
 |  |
@@ -65,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/Yuvasree-01/Python-Problem-Solving/tree/master/0088-merge-sorted-array) |
 | [0242-valid-anagram](https://github.com/Yuvasree-01/Python-Problem-Solving/tree/master/0242-valid-anagram) |
 | [0414-third-maximum-number](https://github.com/Yuvasree-01/Python-Problem-Solving/tree/master/0414-third-maximum-number) |
+| [1502-can-make-arithmetic-progression-from-sequence](https://github.com/Yuvasree-01/Python-Problem-Solving/tree/master/1502-can-make-arithmetic-progression-from-sequence) |
 ## Queue
 |  |
 | ------- |
