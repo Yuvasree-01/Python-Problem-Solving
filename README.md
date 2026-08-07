@@ -134,4 +134,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0060-permutation-sequence](https://github.com/Yuvasree-01/Python-Problem-Solving/tree/master/0060-permutation-sequence) |
+## Database
+|  |
+| ------- |
+| [0627-swap-sex-of-employees](https://github.com/Yuvasree-01/Python-Problem-Solving/tree/master/0627-swap-sex-of-employees) |
 <!---LeetCode Topics End-->
