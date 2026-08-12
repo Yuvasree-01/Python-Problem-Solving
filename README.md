@@ -138,6 +138,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Recursion
 |  |
 | ------- |
+| [0021-merge-two-sorted-lists](https://github.com/Yuvasree-01/Python-Problem-Solving/tree/master/0021-merge-two-sorted-lists) |
 | [0060-permutation-sequence](https://github.com/Yuvasree-01/Python-Problem-Solving/tree/master/0060-permutation-sequence) |
 ## Database
 |  |
@@ -149,4 +150,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/Yuvasree-01/Python-Problem-Solving/tree/master/0014-longest-common-prefix) |
+## Linked List
+|  |
+| ------- |
+| [0021-merge-two-sorted-lists](https://github.com/Yuvasree-01/Python-Problem-Solving/tree/master/0021-merge-two-sorted-lists) |
 <!---LeetCode Topics End-->
