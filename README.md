@@ -93,6 +93,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/Yuvasree-01/Python-Problem-Solving/tree/master/0013-roman-to-integer) |
 | [0029-divide-two-integers](https://github.com/Yuvasree-01/Python-Problem-Solving/tree/master/0029-divide-two-integers) |
 | [0060-permutation-sequence](https://github.com/Yuvasree-01/Python-Problem-Solving/tree/master/0060-permutation-sequence) |
+| [0069-sqrtx](https://github.com/Yuvasree-01/Python-Problem-Solving/tree/master/0069-sqrtx) |
 | [0263-ugly-number](https://github.com/Yuvasree-01/Python-Problem-Solving/tree/master/0263-ugly-number) |
 | [0728-self-dividing-numbers](https://github.com/Yuvasree-01/Python-Problem-Solving/tree/master/0728-self-dividing-numbers) |
 | [1015-smallest-integer-divisible-by-k](https://github.com/Yuvasree-01/Python-Problem-Solving/tree/master/1015-smallest-integer-divisible-by-k) |
@@ -177,4 +178,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0029-divide-two-integers](https://github.com/Yuvasree-01/Python-Problem-Solving/tree/master/0029-divide-two-integers) |
+## Binary Search
+|  |
+| ------- |
+| [0069-sqrtx](https://github.com/Yuvasree-01/Python-Problem-Solving/tree/master/0069-sqrtx) |
+## Newton's Method
+|  |
+| ------- |
+| [0069-sqrtx](https://github.com/Yuvasree-01/Python-Problem-Solving/tree/master/0069-sqrtx) |
 <!---LeetCode Topics End-->
