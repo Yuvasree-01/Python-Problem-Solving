@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Yuvasree-01/Python-Problem-Solving/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/Yuvasree-01/Python-Problem-Solving/tree/master/0027-remove-element) |
 | [0053-maximum-subarray](https://github.com/Yuvasree-01/Python-Problem-Solving/tree/master/0053-maximum-subarray) |
+| [0066-plus-one](https://github.com/Yuvasree-01/Python-Problem-Solving/tree/master/0066-plus-one) |
 | [0088-merge-sorted-array](https://github.com/Yuvasree-01/Python-Problem-Solving/tree/master/0088-merge-sorted-array) |
 | [0118-pascals-triangle](https://github.com/Yuvasree-01/Python-Problem-Solving/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Yuvasree-01/Python-Problem-Solving/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -93,6 +94,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/Yuvasree-01/Python-Problem-Solving/tree/master/0013-roman-to-integer) |
 | [0029-divide-two-integers](https://github.com/Yuvasree-01/Python-Problem-Solving/tree/master/0029-divide-two-integers) |
 | [0060-permutation-sequence](https://github.com/Yuvasree-01/Python-Problem-Solving/tree/master/0060-permutation-sequence) |
+| [0066-plus-one](https://github.com/Yuvasree-01/Python-Problem-Solving/tree/master/0066-plus-one) |
 | [0069-sqrtx](https://github.com/Yuvasree-01/Python-Problem-Solving/tree/master/0069-sqrtx) |
 | [0070-climbing-stairs](https://github.com/Yuvasree-01/Python-Problem-Solving/tree/master/0070-climbing-stairs) |
 | [0263-ugly-number](https://github.com/Yuvasree-01/Python-Problem-Solving/tree/master/0263-ugly-number) |
