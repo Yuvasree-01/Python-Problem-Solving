@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0414-third-maximum-number](https://github.com/Yuvasree-01/Python-Problem-Solving/tree/master/0414-third-maximum-number) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Yuvasree-01/Python-Problem-Solving/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0485-max-consecutive-ones](https://github.com/Yuvasree-01/Python-Problem-Solving/tree/master/0485-max-consecutive-ones) |
+| [0500-keyboard-row](https://github.com/Yuvasree-01/Python-Problem-Solving/tree/master/0500-keyboard-row) |
 | [0566-reshape-the-matrix](https://github.com/Yuvasree-01/Python-Problem-Solving/tree/master/0566-reshape-the-matrix) |
 | [1207-unique-number-of-occurrences](https://github.com/Yuvasree-01/Python-Problem-Solving/tree/master/1207-unique-number-of-occurrences) |
 | [1502-can-make-arithmetic-progression-from-sequence](https://github.com/Yuvasree-01/Python-Problem-Solving/tree/master/1502-can-make-arithmetic-progression-from-sequence) |
@@ -41,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0383-ransom-note](https://github.com/Yuvasree-01/Python-Problem-Solving/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/Yuvasree-01/Python-Problem-Solving/tree/master/0387-first-unique-character-in-a-string) |
 | [0412-fizz-buzz](https://github.com/Yuvasree-01/Python-Problem-Solving/tree/master/0412-fizz-buzz) |
+| [0500-keyboard-row](https://github.com/Yuvasree-01/Python-Problem-Solving/tree/master/0500-keyboard-row) |
 | [0520-detect-capital](https://github.com/Yuvasree-01/Python-Problem-Solving/tree/master/0520-detect-capital) |
 | [0709-to-lower-case](https://github.com/Yuvasree-01/Python-Problem-Solving/tree/master/0709-to-lower-case) |
 | [0771-jewels-and-stones](https://github.com/Yuvasree-01/Python-Problem-Solving/tree/master/0771-jewels-and-stones) |
@@ -66,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0383-ransom-note](https://github.com/Yuvasree-01/Python-Problem-Solving/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/Yuvasree-01/Python-Problem-Solving/tree/master/0387-first-unique-character-in-a-string) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Yuvasree-01/Python-Problem-Solving/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
+| [0500-keyboard-row](https://github.com/Yuvasree-01/Python-Problem-Solving/tree/master/0500-keyboard-row) |
 | [0771-jewels-and-stones](https://github.com/Yuvasree-01/Python-Problem-Solving/tree/master/0771-jewels-and-stones) |
 | [0884-uncommon-words-from-two-sentences](https://github.com/Yuvasree-01/Python-Problem-Solving/tree/master/0884-uncommon-words-from-two-sentences) |
 | [1015-smallest-integer-divisible-by-k](https://github.com/Yuvasree-01/Python-Problem-Solving/tree/master/1015-smallest-integer-divisible-by-k) |
