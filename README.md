@@ -37,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/Yuvasree-01/Python-Problem-Solving/tree/master/0020-valid-parentheses) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Yuvasree-01/Python-Problem-Solving/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0058-length-of-last-word](https://github.com/Yuvasree-01/Python-Problem-Solving/tree/master/0058-length-of-last-word) |
+| [0067-add-binary](https://github.com/Yuvasree-01/Python-Problem-Solving/tree/master/0067-add-binary) |
 | [0125-valid-palindrome](https://github.com/Yuvasree-01/Python-Problem-Solving/tree/master/0125-valid-palindrome) |
 | [0205-isomorphic-strings](https://github.com/Yuvasree-01/Python-Problem-Solving/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/Yuvasree-01/Python-Problem-Solving/tree/master/0242-valid-anagram) |
@@ -100,6 +101,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0029-divide-two-integers](https://github.com/Yuvasree-01/Python-Problem-Solving/tree/master/0029-divide-two-integers) |
 | [0060-permutation-sequence](https://github.com/Yuvasree-01/Python-Problem-Solving/tree/master/0060-permutation-sequence) |
 | [0066-plus-one](https://github.com/Yuvasree-01/Python-Problem-Solving/tree/master/0066-plus-one) |
+| [0067-add-binary](https://github.com/Yuvasree-01/Python-Problem-Solving/tree/master/0067-add-binary) |
 | [0069-sqrtx](https://github.com/Yuvasree-01/Python-Problem-Solving/tree/master/0069-sqrtx) |
 | [0070-climbing-stairs](https://github.com/Yuvasree-01/Python-Problem-Solving/tree/master/0070-climbing-stairs) |
 | [0263-ugly-number](https://github.com/Yuvasree-01/Python-Problem-Solving/tree/master/0263-ugly-number) |
@@ -132,6 +134,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/Yuvasree-01/Python-Problem-Solving/tree/master/0067-add-binary) |
 | [0412-fizz-buzz](https://github.com/Yuvasree-01/Python-Problem-Solving/tree/master/0412-fizz-buzz) |
 | [0566-reshape-the-matrix](https://github.com/Yuvasree-01/Python-Problem-Solving/tree/master/0566-reshape-the-matrix) |
 ## Design
@@ -189,6 +192,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0029-divide-two-integers](https://github.com/Yuvasree-01/Python-Problem-Solving/tree/master/0029-divide-two-integers) |
+| [0067-add-binary](https://github.com/Yuvasree-01/Python-Problem-Solving/tree/master/0067-add-binary) |
 ## Binary Search
 |  |
 | ------- |
