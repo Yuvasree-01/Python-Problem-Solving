@@ -42,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0067-add-binary](https://github.com/Yuvasree-01/Python-Problem-Solving/tree/master/0067-add-binary) |
 | [0125-valid-palindrome](https://github.com/Yuvasree-01/Python-Problem-Solving/tree/master/0125-valid-palindrome) |
 | [0168-excel-sheet-column-title](https://github.com/Yuvasree-01/Python-Problem-Solving/tree/master/0168-excel-sheet-column-title) |
+| [0171-excel-sheet-column-number](https://github.com/Yuvasree-01/Python-Problem-Solving/tree/master/0171-excel-sheet-column-number) |
 | [0205-isomorphic-strings](https://github.com/Yuvasree-01/Python-Problem-Solving/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/Yuvasree-01/Python-Problem-Solving/tree/master/0242-valid-anagram) |
 | [0383-ransom-note](https://github.com/Yuvasree-01/Python-Problem-Solving/tree/master/0383-ransom-note) |
@@ -112,6 +113,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0069-sqrtx](https://github.com/Yuvasree-01/Python-Problem-Solving/tree/master/0069-sqrtx) |
 | [0070-climbing-stairs](https://github.com/Yuvasree-01/Python-Problem-Solving/tree/master/0070-climbing-stairs) |
 | [0168-excel-sheet-column-title](https://github.com/Yuvasree-01/Python-Problem-Solving/tree/master/0168-excel-sheet-column-title) |
+| [0171-excel-sheet-column-number](https://github.com/Yuvasree-01/Python-Problem-Solving/tree/master/0171-excel-sheet-column-number) |
 | [0263-ugly-number](https://github.com/Yuvasree-01/Python-Problem-Solving/tree/master/0263-ugly-number) |
 | [0412-fizz-buzz](https://github.com/Yuvasree-01/Python-Problem-Solving/tree/master/0412-fizz-buzz) |
 | [0728-self-dividing-numbers](https://github.com/Yuvasree-01/Python-Problem-Solving/tree/master/0728-self-dividing-numbers) |
