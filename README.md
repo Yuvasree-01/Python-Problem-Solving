@@ -51,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0383-ransom-note](https://github.com/Yuvasree-01/Python-Problem-Solving/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/Yuvasree-01/Python-Problem-Solving/tree/master/0387-first-unique-character-in-a-string) |
 | [0412-fizz-buzz](https://github.com/Yuvasree-01/Python-Problem-Solving/tree/master/0412-fizz-buzz) |
+| [0415-add-strings](https://github.com/Yuvasree-01/Python-Problem-Solving/tree/master/0415-add-strings) |
 | [0500-keyboard-row](https://github.com/Yuvasree-01/Python-Problem-Solving/tree/master/0500-keyboard-row) |
 | [0520-detect-capital](https://github.com/Yuvasree-01/Python-Problem-Solving/tree/master/0520-detect-capital) |
 | [0709-to-lower-case](https://github.com/Yuvasree-01/Python-Problem-Solving/tree/master/0709-to-lower-case) |
@@ -122,6 +123,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0171-excel-sheet-column-number](https://github.com/Yuvasree-01/Python-Problem-Solving/tree/master/0171-excel-sheet-column-number) |
 | [0263-ugly-number](https://github.com/Yuvasree-01/Python-Problem-Solving/tree/master/0263-ugly-number) |
 | [0412-fizz-buzz](https://github.com/Yuvasree-01/Python-Problem-Solving/tree/master/0412-fizz-buzz) |
+| [0415-add-strings](https://github.com/Yuvasree-01/Python-Problem-Solving/tree/master/0415-add-strings) |
 | [0728-self-dividing-numbers](https://github.com/Yuvasree-01/Python-Problem-Solving/tree/master/0728-self-dividing-numbers) |
 | [1015-smallest-integer-divisible-by-k](https://github.com/Yuvasree-01/Python-Problem-Solving/tree/master/1015-smallest-integer-divisible-by-k) |
 | [2485-find-the-pivot-integer](https://github.com/Yuvasree-01/Python-Problem-Solving/tree/master/2485-find-the-pivot-integer) |
@@ -154,6 +156,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0067-add-binary](https://github.com/Yuvasree-01/Python-Problem-Solving/tree/master/0067-add-binary) |
 | [0412-fizz-buzz](https://github.com/Yuvasree-01/Python-Problem-Solving/tree/master/0412-fizz-buzz) |
+| [0415-add-strings](https://github.com/Yuvasree-01/Python-Problem-Solving/tree/master/0415-add-strings) |
 | [0566-reshape-the-matrix](https://github.com/Yuvasree-01/Python-Problem-Solving/tree/master/0566-reshape-the-matrix) |
 ## Design
 |  |
