@@ -198,6 +198,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1407-top-travellers](https://github.com/Yuvasree-01/Python-Problem-Solving/tree/master/1407-top-travellers) |
 | [1587-bank-account-summary-ii](https://github.com/Yuvasree-01/Python-Problem-Solving/tree/master/1587-bank-account-summary-ii) |
 | [1890-the-latest-login-in-2020](https://github.com/Yuvasree-01/Python-Problem-Solving/tree/master/1890-the-latest-login-in-2020) |
+| [1965-employees-with-missing-information](https://github.com/Yuvasree-01/Python-Problem-Solving/tree/master/1965-employees-with-missing-information) |
 ## Trie
 |  |
 | ------- |
