@@ -30,3 +30,5 @@ class Solution:
             start_index += 1
             
         return "".join(str(digit) for digit in result[start_index:])
+
+        # return str(int(num1) * int(num2))
