@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Yuvasree-01/Python-Problem-Solving/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0136-single-number](https://github.com/Yuvasree-01/Python-Problem-Solving/tree/master/0136-single-number) |
 | [0169-majority-element](https://github.com/Yuvasree-01/Python-Problem-Solving/tree/master/0169-majority-element) |
+| [0204-count-primes](https://github.com/Yuvasree-01/Python-Problem-Solving/tree/master/0204-count-primes) |
 | [0268-missing-number](https://github.com/Yuvasree-01/Python-Problem-Solving/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/Yuvasree-01/Python-Problem-Solving/tree/master/0283-move-zeroes) |
 | [0414-third-maximum-number](https://github.com/Yuvasree-01/Python-Problem-Solving/tree/master/0414-third-maximum-number) |
@@ -132,6 +133,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0070-climbing-stairs](https://github.com/Yuvasree-01/Python-Problem-Solving/tree/master/0070-climbing-stairs) |
 | [0168-excel-sheet-column-title](https://github.com/Yuvasree-01/Python-Problem-Solving/tree/master/0168-excel-sheet-column-title) |
 | [0171-excel-sheet-column-number](https://github.com/Yuvasree-01/Python-Problem-Solving/tree/master/0171-excel-sheet-column-number) |
+| [0204-count-primes](https://github.com/Yuvasree-01/Python-Problem-Solving/tree/master/0204-count-primes) |
 | [0258-add-digits](https://github.com/Yuvasree-01/Python-Problem-Solving/tree/master/0258-add-digits) |
 | [0263-ugly-number](https://github.com/Yuvasree-01/Python-Problem-Solving/tree/master/0263-ugly-number) |
 | [0264-ugly-number-ii](https://github.com/Yuvasree-01/Python-Problem-Solving/tree/master/0264-ugly-number-ii) |
@@ -272,6 +274,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Number Theory
 |  |
 | ------- |
+| [0204-count-primes](https://github.com/Yuvasree-01/Python-Problem-Solving/tree/master/0204-count-primes) |
 | [0258-add-digits](https://github.com/Yuvasree-01/Python-Problem-Solving/tree/master/0258-add-digits) |
 ## Heap (Priority Queue)
 |  |
@@ -286,4 +289,20 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/Yuvasree-01/Python-Problem-Solving/tree/master/0022-generate-parentheses) |
+## Enumeration
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/Yuvasree-01/Python-Problem-Solving/tree/master/0204-count-primes) |
+## Primality Test
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/Yuvasree-01/Python-Problem-Solving/tree/master/0204-count-primes) |
+## Sieve Theory
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/Yuvasree-01/Python-Problem-Solving/tree/master/0204-count-primes) |
+## Prime Number Sieve
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/Yuvasree-01/Python-Problem-Solving/tree/master/0204-count-primes) |
 <!---LeetCode Topics End-->
