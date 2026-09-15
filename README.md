@@ -153,6 +153,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0415-add-strings](https://github.com/Yuvasree-01/Python-Problem-Solving/tree/master/0415-add-strings) |
 | [0509-fibonacci-number](https://github.com/Yuvasree-01/Python-Problem-Solving/tree/master/0509-fibonacci-number) |
 | [0728-self-dividing-numbers](https://github.com/Yuvasree-01/Python-Problem-Solving/tree/master/0728-self-dividing-numbers) |
+| [0836-rectangle-overlap](https://github.com/Yuvasree-01/Python-Problem-Solving/tree/master/0836-rectangle-overlap) |
 | [1015-smallest-integer-divisible-by-k](https://github.com/Yuvasree-01/Python-Problem-Solving/tree/master/1015-smallest-integer-divisible-by-k) |
 | [2485-find-the-pivot-integer](https://github.com/Yuvasree-01/Python-Problem-Solving/tree/master/2485-find-the-pivot-integer) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Yuvasree-01/Python-Problem-Solving/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
@@ -329,4 +330,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Yuvasree-01/Python-Problem-Solving/tree/master/0003-longest-substring-without-repeating-characters) |
+## Geometry
+|  |
+| ------- |
+| [0836-rectangle-overlap](https://github.com/Yuvasree-01/Python-Problem-Solving/tree/master/0836-rectangle-overlap) |
 <!---LeetCode Topics End-->
