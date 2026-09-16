@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0238-product-of-array-except-self](https://github.com/Yuvasree-01/Python-Problem-Solving/tree/master/0238-product-of-array-except-self) |
 | [0268-missing-number](https://github.com/Yuvasree-01/Python-Problem-Solving/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/Yuvasree-01/Python-Problem-Solving/tree/master/0283-move-zeroes) |
+| [0334-increasing-triplet-subsequence](https://github.com/Yuvasree-01/Python-Problem-Solving/tree/master/0334-increasing-triplet-subsequence) |
 | [0414-third-maximum-number](https://github.com/Yuvasree-01/Python-Problem-Solving/tree/master/0414-third-maximum-number) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Yuvasree-01/Python-Problem-Solving/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0485-max-consecutive-ones](https://github.com/Yuvasree-01/Python-Problem-Solving/tree/master/0485-max-consecutive-ones) |
@@ -164,6 +165,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0334-increasing-triplet-subsequence](https://github.com/Yuvasree-01/Python-Problem-Solving/tree/master/0334-increasing-triplet-subsequence) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Yuvasree-01/Python-Problem-Solving/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 ## Stack
 |  |
@@ -336,4 +338,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0836-rectangle-overlap](https://github.com/Yuvasree-01/Python-Problem-Solving/tree/master/0836-rectangle-overlap) |
+## Longest Increasing Subsequence
+|  |
+| ------- |
+| [0334-increasing-triplet-subsequence](https://github.com/Yuvasree-01/Python-Problem-Solving/tree/master/0334-increasing-triplet-subsequence) |
 <!---LeetCode Topics End-->
