@@ -67,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0306-additive-number](https://github.com/Yuvasree-01/Python-Problem-Solving/tree/master/0306-additive-number) |
 | [0383-ransom-note](https://github.com/Yuvasree-01/Python-Problem-Solving/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/Yuvasree-01/Python-Problem-Solving/tree/master/0387-first-unique-character-in-a-string) |
+| [0389-find-the-difference](https://github.com/Yuvasree-01/Python-Problem-Solving/tree/master/0389-find-the-difference) |
 | [0412-fizz-buzz](https://github.com/Yuvasree-01/Python-Problem-Solving/tree/master/0412-fizz-buzz) |
 | [0415-add-strings](https://github.com/Yuvasree-01/Python-Problem-Solving/tree/master/0415-add-strings) |
 | [0500-keyboard-row](https://github.com/Yuvasree-01/Python-Problem-Solving/tree/master/0500-keyboard-row) |
@@ -106,6 +107,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0290-word-pattern](https://github.com/Yuvasree-01/Python-Problem-Solving/tree/master/0290-word-pattern) |
 | [0383-ransom-note](https://github.com/Yuvasree-01/Python-Problem-Solving/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/Yuvasree-01/Python-Problem-Solving/tree/master/0387-first-unique-character-in-a-string) |
+| [0389-find-the-difference](https://github.com/Yuvasree-01/Python-Problem-Solving/tree/master/0389-find-the-difference) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Yuvasree-01/Python-Problem-Solving/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0500-keyboard-row](https://github.com/Yuvasree-01/Python-Problem-Solving/tree/master/0500-keyboard-row) |
 | [0771-jewels-and-stones](https://github.com/Yuvasree-01/Python-Problem-Solving/tree/master/0771-jewels-and-stones) |
@@ -120,6 +122,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/Yuvasree-01/Python-Problem-Solving/tree/master/0169-majority-element) |
 | [0242-valid-anagram](https://github.com/Yuvasree-01/Python-Problem-Solving/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/Yuvasree-01/Python-Problem-Solving/tree/master/0268-missing-number) |
+| [0389-find-the-difference](https://github.com/Yuvasree-01/Python-Problem-Solving/tree/master/0389-find-the-difference) |
 | [0414-third-maximum-number](https://github.com/Yuvasree-01/Python-Problem-Solving/tree/master/0414-third-maximum-number) |
 | [1502-can-make-arithmetic-progression-from-sequence](https://github.com/Yuvasree-01/Python-Problem-Solving/tree/master/1502-can-make-arithmetic-progression-from-sequence) |
 ## Queue
@@ -268,6 +271,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0137-single-number-ii](https://github.com/Yuvasree-01/Python-Problem-Solving/tree/master/0137-single-number-ii) |
 | [0190-reverse-bits](https://github.com/Yuvasree-01/Python-Problem-Solving/tree/master/0190-reverse-bits) |
 | [0268-missing-number](https://github.com/Yuvasree-01/Python-Problem-Solving/tree/master/0268-missing-number) |
+| [0389-find-the-difference](https://github.com/Yuvasree-01/Python-Problem-Solving/tree/master/0389-find-the-difference) |
 ## Binary Search
 |  |
 | ------- |
