@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1207-unique-number-of-occurrences](https://github.com/Yuvasree-01/Python-Problem-Solving/tree/master/1207-unique-number-of-occurrences) |
 | [1502-can-make-arithmetic-progression-from-sequence](https://github.com/Yuvasree-01/Python-Problem-Solving/tree/master/1502-can-make-arithmetic-progression-from-sequence) |
 | [1672-richest-customer-wealth](https://github.com/Yuvasree-01/Python-Problem-Solving/tree/master/1672-richest-customer-wealth) |
+| [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/Yuvasree-01/Python-Problem-Solving/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/Yuvasree-01/Python-Problem-Solving/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 ## Matrix
 |  |
@@ -77,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0709-to-lower-case](https://github.com/Yuvasree-01/Python-Problem-Solving/tree/master/0709-to-lower-case) |
 | [0771-jewels-and-stones](https://github.com/Yuvasree-01/Python-Problem-Solving/tree/master/0771-jewels-and-stones) |
 | [0884-uncommon-words-from-two-sentences](https://github.com/Yuvasree-01/Python-Problem-Solving/tree/master/0884-uncommon-words-from-two-sentences) |
+| [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/Yuvasree-01/Python-Problem-Solving/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Yuvasree-01/Python-Problem-Solving/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 ## Two Pointers
 |  |
@@ -117,6 +119,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0884-uncommon-words-from-two-sentences](https://github.com/Yuvasree-01/Python-Problem-Solving/tree/master/0884-uncommon-words-from-two-sentences) |
 | [1015-smallest-integer-divisible-by-k](https://github.com/Yuvasree-01/Python-Problem-Solving/tree/master/1015-smallest-integer-divisible-by-k) |
 | [1207-unique-number-of-occurrences](https://github.com/Yuvasree-01/Python-Problem-Solving/tree/master/1207-unique-number-of-occurrences) |
+| [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/Yuvasree-01/Python-Problem-Solving/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 ## Sorting
 |  |
 | ------- |
