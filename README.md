@@ -78,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0709-to-lower-case](https://github.com/Yuvasree-01/Python-Problem-Solving/tree/master/0709-to-lower-case) |
 | [0771-jewels-and-stones](https://github.com/Yuvasree-01/Python-Problem-Solving/tree/master/0771-jewels-and-stones) |
 | [0884-uncommon-words-from-two-sentences](https://github.com/Yuvasree-01/Python-Problem-Solving/tree/master/0884-uncommon-words-from-two-sentences) |
+| [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Yuvasree-01/Python-Problem-Solving/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/Yuvasree-01/Python-Problem-Solving/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Yuvasree-01/Python-Problem-Solving/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 ## Two Pointers
@@ -188,6 +189,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0020-valid-parentheses](https://github.com/Yuvasree-01/Python-Problem-Solving/tree/master/0020-valid-parentheses) |
 | [0232-implement-queue-using-stacks](https://github.com/Yuvasree-01/Python-Problem-Solving/tree/master/0232-implement-queue-using-stacks) |
+| [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Yuvasree-01/Python-Problem-Solving/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -331,6 +333,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0020-valid-parentheses](https://github.com/Yuvasree-01/Python-Problem-Solving/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/Yuvasree-01/Python-Problem-Solving/tree/master/0022-generate-parentheses) |
+| [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Yuvasree-01/Python-Problem-Solving/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 ## Enumeration
 |  |
 | ------- |
