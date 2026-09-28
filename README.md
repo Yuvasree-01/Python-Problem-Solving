@@ -81,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Yuvasree-01/Python-Problem-Solving/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/Yuvasree-01/Python-Problem-Solving/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Yuvasree-01/Python-Problem-Solving/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
+| [3498-reverse-degree-of-a-string](https://github.com/Yuvasree-01/Python-Problem-Solving/tree/master/3498-reverse-degree-of-a-string) |
 ## Two Pointers
 |  |
 | ------- |
@@ -216,6 +217,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0412-fizz-buzz](https://github.com/Yuvasree-01/Python-Problem-Solving/tree/master/0412-fizz-buzz) |
 | [0415-add-strings](https://github.com/Yuvasree-01/Python-Problem-Solving/tree/master/0415-add-strings) |
 | [0566-reshape-the-matrix](https://github.com/Yuvasree-01/Python-Problem-Solving/tree/master/0566-reshape-the-matrix) |
+| [3498-reverse-degree-of-a-string](https://github.com/Yuvasree-01/Python-Problem-Solving/tree/master/3498-reverse-degree-of-a-string) |
 ## Design
 |  |
 | ------- |
