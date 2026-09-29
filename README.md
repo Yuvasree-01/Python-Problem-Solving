@@ -75,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0389-find-the-difference](https://github.com/Yuvasree-01/Python-Problem-Solving/tree/master/0389-find-the-difference) |
 | [0412-fizz-buzz](https://github.com/Yuvasree-01/Python-Problem-Solving/tree/master/0412-fizz-buzz) |
 | [0415-add-strings](https://github.com/Yuvasree-01/Python-Problem-Solving/tree/master/0415-add-strings) |
+| [0443-string-compression](https://github.com/Yuvasree-01/Python-Problem-Solving/tree/master/0443-string-compression) |
 | [0500-keyboard-row](https://github.com/Yuvasree-01/Python-Problem-Solving/tree/master/0500-keyboard-row) |
 | [0520-detect-capital](https://github.com/Yuvasree-01/Python-Problem-Solving/tree/master/0520-detect-capital) |
 | [0709-to-lower-case](https://github.com/Yuvasree-01/Python-Problem-Solving/tree/master/0709-to-lower-case) |
@@ -97,6 +98,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0151-reverse-words-in-a-string](https://github.com/Yuvasree-01/Python-Problem-Solving/tree/master/0151-reverse-words-in-a-string) |
 | [0202-happy-number](https://github.com/Yuvasree-01/Python-Problem-Solving/tree/master/0202-happy-number) |
 | [0283-move-zeroes](https://github.com/Yuvasree-01/Python-Problem-Solving/tree/master/0283-move-zeroes) |
+| [0443-string-compression](https://github.com/Yuvasree-01/Python-Problem-Solving/tree/master/0443-string-compression) |
 ## Hash Table
 |  |
 | ------- |
