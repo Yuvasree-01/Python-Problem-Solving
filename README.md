@@ -36,12 +36,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1502-can-make-arithmetic-progression-from-sequence](https://github.com/Yuvasree-01/Python-Problem-Solving/tree/master/1502-can-make-arithmetic-progression-from-sequence) |
 | [1672-richest-customer-wealth](https://github.com/Yuvasree-01/Python-Problem-Solving/tree/master/1672-richest-customer-wealth) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/Yuvasree-01/Python-Problem-Solving/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
+| [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/Yuvasree-01/Python-Problem-Solving/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/Yuvasree-01/Python-Problem-Solving/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 ## Matrix
 |  |
 | ------- |
 | [0566-reshape-the-matrix](https://github.com/Yuvasree-01/Python-Problem-Solving/tree/master/0566-reshape-the-matrix) |
 | [1672-richest-customer-wealth](https://github.com/Yuvasree-01/Python-Problem-Solving/tree/master/1672-richest-customer-wealth) |
+| [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/Yuvasree-01/Python-Problem-Solving/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 ## String
 |  |
 | ------- |
@@ -208,6 +210,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Yuvasree-01/Python-Problem-Solving/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0264-ugly-number-ii](https://github.com/Yuvasree-01/Python-Problem-Solving/tree/master/0264-ugly-number-ii) |
 | [0509-fibonacci-number](https://github.com/Yuvasree-01/Python-Problem-Solving/tree/master/0509-fibonacci-number) |
+| [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/Yuvasree-01/Python-Problem-Solving/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 ## Simulation
 |  |
 | ------- |
@@ -336,6 +339,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/Yuvasree-01/Python-Problem-Solving/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/Yuvasree-01/Python-Problem-Solving/tree/master/0022-generate-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Yuvasree-01/Python-Problem-Solving/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
+| [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/Yuvasree-01/Python-Problem-Solving/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 ## Enumeration
 |  |
 | ------- |
