@@ -58,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/Yuvasree-01/Python-Problem-Solving/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/Yuvasree-01/Python-Problem-Solving/tree/master/0022-generate-parentheses) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Yuvasree-01/Python-Problem-Solving/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0032-longest-valid-parentheses](https://github.com/Yuvasree-01/Python-Problem-Solving/tree/master/0032-longest-valid-parentheses) |
 | [0038-count-and-say](https://github.com/Yuvasree-01/Python-Problem-Solving/tree/master/0038-count-and-say) |
 | [0043-multiply-strings](https://github.com/Yuvasree-01/Python-Problem-Solving/tree/master/0043-multiply-strings) |
 | [0058-length-of-last-word](https://github.com/Yuvasree-01/Python-Problem-Solving/tree/master/0058-length-of-last-word) |
@@ -194,6 +195,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/Yuvasree-01/Python-Problem-Solving/tree/master/0020-valid-parentheses) |
+| [0032-longest-valid-parentheses](https://github.com/Yuvasree-01/Python-Problem-Solving/tree/master/0032-longest-valid-parentheses) |
 | [0232-implement-queue-using-stacks](https://github.com/Yuvasree-01/Python-Problem-Solving/tree/master/0232-implement-queue-using-stacks) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/Yuvasree-01/Python-Problem-Solving/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Yuvasree-01/Python-Problem-Solving/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
@@ -208,6 +210,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/Yuvasree-01/Python-Problem-Solving/tree/master/0005-longest-palindromic-substring) |
 | [0022-generate-parentheses](https://github.com/Yuvasree-01/Python-Problem-Solving/tree/master/0022-generate-parentheses) |
+| [0032-longest-valid-parentheses](https://github.com/Yuvasree-01/Python-Problem-Solving/tree/master/0032-longest-valid-parentheses) |
 | [0053-maximum-subarray](https://github.com/Yuvasree-01/Python-Problem-Solving/tree/master/0053-maximum-subarray) |
 | [0070-climbing-stairs](https://github.com/Yuvasree-01/Python-Problem-Solving/tree/master/0070-climbing-stairs) |
 | [0118-pascals-triangle](https://github.com/Yuvasree-01/Python-Problem-Solving/tree/master/0118-pascals-triangle) |
@@ -342,6 +345,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0020-valid-parentheses](https://github.com/Yuvasree-01/Python-Problem-Solving/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/Yuvasree-01/Python-Problem-Solving/tree/master/0022-generate-parentheses) |
+| [0032-longest-valid-parentheses](https://github.com/Yuvasree-01/Python-Problem-Solving/tree/master/0032-longest-valid-parentheses) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/Yuvasree-01/Python-Problem-Solving/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Yuvasree-01/Python-Problem-Solving/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/Yuvasree-01/Python-Problem-Solving/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
