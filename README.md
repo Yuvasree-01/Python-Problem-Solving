@@ -79,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0443-string-compression](https://github.com/Yuvasree-01/Python-Problem-Solving/tree/master/0443-string-compression) |
 | [0500-keyboard-row](https://github.com/Yuvasree-01/Python-Problem-Solving/tree/master/0500-keyboard-row) |
 | [0520-detect-capital](https://github.com/Yuvasree-01/Python-Problem-Solving/tree/master/0520-detect-capital) |
+| [0678-valid-parenthesis-string](https://github.com/Yuvasree-01/Python-Problem-Solving/tree/master/0678-valid-parenthesis-string) |
 | [0709-to-lower-case](https://github.com/Yuvasree-01/Python-Problem-Solving/tree/master/0709-to-lower-case) |
 | [0771-jewels-and-stones](https://github.com/Yuvasree-01/Python-Problem-Solving/tree/master/0771-jewels-and-stones) |
 | [0884-uncommon-words-from-two-sentences](https://github.com/Yuvasree-01/Python-Problem-Solving/tree/master/0884-uncommon-words-from-two-sentences) |
@@ -190,6 +191,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0334-increasing-triplet-subsequence](https://github.com/Yuvasree-01/Python-Problem-Solving/tree/master/0334-increasing-triplet-subsequence) |
+| [0678-valid-parenthesis-string](https://github.com/Yuvasree-01/Python-Problem-Solving/tree/master/0678-valid-parenthesis-string) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Yuvasree-01/Python-Problem-Solving/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 ## Stack
 |  |
@@ -197,6 +199,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/Yuvasree-01/Python-Problem-Solving/tree/master/0020-valid-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/Yuvasree-01/Python-Problem-Solving/tree/master/0032-longest-valid-parentheses) |
 | [0232-implement-queue-using-stacks](https://github.com/Yuvasree-01/Python-Problem-Solving/tree/master/0232-implement-queue-using-stacks) |
+| [0678-valid-parenthesis-string](https://github.com/Yuvasree-01/Python-Problem-Solving/tree/master/0678-valid-parenthesis-string) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/Yuvasree-01/Python-Problem-Solving/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Yuvasree-01/Python-Problem-Solving/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 ## Divide and Conquer
@@ -217,6 +220,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Yuvasree-01/Python-Problem-Solving/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0264-ugly-number-ii](https://github.com/Yuvasree-01/Python-Problem-Solving/tree/master/0264-ugly-number-ii) |
 | [0509-fibonacci-number](https://github.com/Yuvasree-01/Python-Problem-Solving/tree/master/0509-fibonacci-number) |
+| [0678-valid-parenthesis-string](https://github.com/Yuvasree-01/Python-Problem-Solving/tree/master/0678-valid-parenthesis-string) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/Yuvasree-01/Python-Problem-Solving/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 ## Simulation
 |  |
@@ -346,6 +350,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/Yuvasree-01/Python-Problem-Solving/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/Yuvasree-01/Python-Problem-Solving/tree/master/0022-generate-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/Yuvasree-01/Python-Problem-Solving/tree/master/0032-longest-valid-parentheses) |
+| [0678-valid-parenthesis-string](https://github.com/Yuvasree-01/Python-Problem-Solving/tree/master/0678-valid-parenthesis-string) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/Yuvasree-01/Python-Problem-Solving/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Yuvasree-01/Python-Problem-Solving/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/Yuvasree-01/Python-Problem-Solving/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
