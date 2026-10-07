@@ -70,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0205-isomorphic-strings](https://github.com/Yuvasree-01/Python-Problem-Solving/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/Yuvasree-01/Python-Problem-Solving/tree/master/0242-valid-anagram) |
 | [0290-word-pattern](https://github.com/Yuvasree-01/Python-Problem-Solving/tree/master/0290-word-pattern) |
+| [0301-remove-invalid-parentheses](https://github.com/Yuvasree-01/Python-Problem-Solving/tree/master/0301-remove-invalid-parentheses) |
 | [0306-additive-number](https://github.com/Yuvasree-01/Python-Problem-Solving/tree/master/0306-additive-number) |
 | [0383-ransom-note](https://github.com/Yuvasree-01/Python-Problem-Solving/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/Yuvasree-01/Python-Problem-Solving/tree/master/0387-first-unique-character-in-a-string) |
@@ -348,6 +349,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Yuvasree-01/Python-Problem-Solving/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0022-generate-parentheses](https://github.com/Yuvasree-01/Python-Problem-Solving/tree/master/0022-generate-parentheses) |
 | [0039-combination-sum](https://github.com/Yuvasree-01/Python-Problem-Solving/tree/master/0039-combination-sum) |
+| [0301-remove-invalid-parentheses](https://github.com/Yuvasree-01/Python-Problem-Solving/tree/master/0301-remove-invalid-parentheses) |
 | [0306-additive-number](https://github.com/Yuvasree-01/Python-Problem-Solving/tree/master/0306-additive-number) |
 ## Bracket Sequences
 |  |
@@ -394,4 +396,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0334-increasing-triplet-subsequence](https://github.com/Yuvasree-01/Python-Problem-Solving/tree/master/0334-increasing-triplet-subsequence) |
+## Breadth-First Search
+|  |
+| ------- |
+| [0301-remove-invalid-parentheses](https://github.com/Yuvasree-01/Python-Problem-Solving/tree/master/0301-remove-invalid-parentheses) |
 <!---LeetCode Topics End-->
