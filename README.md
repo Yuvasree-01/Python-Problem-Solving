@@ -37,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1672-richest-customer-wealth](https://github.com/Yuvasree-01/Python-Problem-Solving/tree/master/1672-richest-customer-wealth) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/Yuvasree-01/Python-Problem-Solving/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/Yuvasree-01/Python-Problem-Solving/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
+| [2333-minimum-sum-of-squared-difference](https://github.com/Yuvasree-01/Python-Problem-Solving/tree/master/2333-minimum-sum-of-squared-difference) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/Yuvasree-01/Python-Problem-Solving/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 ## Matrix
 |  |
@@ -145,6 +146,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0389-find-the-difference](https://github.com/Yuvasree-01/Python-Problem-Solving/tree/master/0389-find-the-difference) |
 | [0414-third-maximum-number](https://github.com/Yuvasree-01/Python-Problem-Solving/tree/master/0414-third-maximum-number) |
 | [1502-can-make-arithmetic-progression-from-sequence](https://github.com/Yuvasree-01/Python-Problem-Solving/tree/master/1502-can-make-arithmetic-progression-from-sequence) |
+| [2333-minimum-sum-of-squared-difference](https://github.com/Yuvasree-01/Python-Problem-Solving/tree/master/2333-minimum-sum-of-squared-difference) |
 ## Queue
 |  |
 | ------- |
@@ -199,6 +201,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0678-valid-parenthesis-string](https://github.com/Yuvasree-01/Python-Problem-Solving/tree/master/0678-valid-parenthesis-string) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/Yuvasree-01/Python-Problem-Solving/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/Yuvasree-01/Python-Problem-Solving/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
+| [2333-minimum-sum-of-squared-difference](https://github.com/Yuvasree-01/Python-Problem-Solving/tree/master/2333-minimum-sum-of-squared-difference) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Yuvasree-01/Python-Problem-Solving/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 ## Stack
 |  |
@@ -318,6 +321,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0035-search-insert-position](https://github.com/Yuvasree-01/Python-Problem-Solving/tree/master/0035-search-insert-position) |
 | [0069-sqrtx](https://github.com/Yuvasree-01/Python-Problem-Solving/tree/master/0069-sqrtx) |
 | [0268-missing-number](https://github.com/Yuvasree-01/Python-Problem-Solving/tree/master/0268-missing-number) |
+| [2333-minimum-sum-of-squared-difference](https://github.com/Yuvasree-01/Python-Problem-Solving/tree/master/2333-minimum-sum-of-squared-difference) |
 ## Newton's Method
 |  |
 | ------- |
@@ -348,6 +352,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0264-ugly-number-ii](https://github.com/Yuvasree-01/Python-Problem-Solving/tree/master/0264-ugly-number-ii) |
+| [2333-minimum-sum-of-squared-difference](https://github.com/Yuvasree-01/Python-Problem-Solving/tree/master/2333-minimum-sum-of-squared-difference) |
 ## Backtracking
 |  |
 | ------- |
