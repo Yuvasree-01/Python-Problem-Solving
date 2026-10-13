@@ -39,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/Yuvasree-01/Python-Problem-Solving/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/Yuvasree-01/Python-Problem-Solving/tree/master/2333-minimum-sum-of-squared-difference) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/Yuvasree-01/Python-Problem-Solving/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
+| [3727-maximum-alternating-sum-of-squares](https://github.com/Yuvasree-01/Python-Problem-Solving/tree/master/3727-maximum-alternating-sum-of-squares) |
 ## Matrix
 |  |
 | ------- |
@@ -147,6 +148,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0414-third-maximum-number](https://github.com/Yuvasree-01/Python-Problem-Solving/tree/master/0414-third-maximum-number) |
 | [1502-can-make-arithmetic-progression-from-sequence](https://github.com/Yuvasree-01/Python-Problem-Solving/tree/master/1502-can-make-arithmetic-progression-from-sequence) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/Yuvasree-01/Python-Problem-Solving/tree/master/2333-minimum-sum-of-squared-difference) |
+| [3727-maximum-alternating-sum-of-squares](https://github.com/Yuvasree-01/Python-Problem-Solving/tree/master/3727-maximum-alternating-sum-of-squares) |
 ## Queue
 |  |
 | ------- |
@@ -203,6 +205,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/Yuvasree-01/Python-Problem-Solving/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/Yuvasree-01/Python-Problem-Solving/tree/master/2333-minimum-sum-of-squared-difference) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Yuvasree-01/Python-Problem-Solving/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
+| [3727-maximum-alternating-sum-of-squares](https://github.com/Yuvasree-01/Python-Problem-Solving/tree/master/3727-maximum-alternating-sum-of-squares) |
 ## Stack
 |  |
 | ------- |
