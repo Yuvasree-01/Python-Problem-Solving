@@ -38,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/Yuvasree-01/Python-Problem-Solving/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/Yuvasree-01/Python-Problem-Solving/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/Yuvasree-01/Python-Problem-Solving/tree/master/2333-minimum-sum-of-squared-difference) |
+| [2778-sum-of-squares-of-special-elements](https://github.com/Yuvasree-01/Python-Problem-Solving/tree/master/2778-sum-of-squares-of-special-elements) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/Yuvasree-01/Python-Problem-Solving/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/Yuvasree-01/Python-Problem-Solving/tree/master/3727-maximum-alternating-sum-of-squares) |
 ## Matrix
@@ -382,6 +383,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0204-count-primes](https://github.com/Yuvasree-01/Python-Problem-Solving/tree/master/0204-count-primes) |
+| [2778-sum-of-squares-of-special-elements](https://github.com/Yuvasree-01/Python-Problem-Solving/tree/master/2778-sum-of-squares-of-special-elements) |
 ## Primality Test
 |  |
 | ------- |
