@@ -99,6 +99,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/Yuvasree-01/Python-Problem-Solving/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Yuvasree-01/Python-Problem-Solving/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3498-reverse-degree-of-a-string](https://github.com/Yuvasree-01/Python-Problem-Solving/tree/master/3498-reverse-degree-of-a-string) |
+| [3863-minimum-operations-to-sort-a-string](https://github.com/Yuvasree-01/Python-Problem-Solving/tree/master/3863-minimum-operations-to-sort-a-string) |
 ## Two Pointers
 |  |
 | ------- |
